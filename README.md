@@ -1,0 +1,1 @@
+This is a Number Guessing Game made using C++. Player deposits an initial amount of money in his account before starting to play, guesses a number between 1 to 10 and enters a betting amount, if he guesses the number correctly, he wins 10 times the betting amount, if he fails to guess the correct number, he loses the betting amount, player can continue to play till he wants to. 
